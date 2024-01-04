@@ -23,7 +23,7 @@
         <h2>Cars in {{user_first_name}}'s Collection:</h2>
         <ul>
             {% for vehicle in vehicles %}
-                <li>{{ vehicle.make }} - {{ vehicle.model }}</li>
+                <li>{{ vehicle.name }} - {{ vehicle.make }} - {{ vehicle.model }}</li>
             {% endfor %}
         </ul>
     </div>
