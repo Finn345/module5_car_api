@@ -1,0 +1,2 @@
+Here is a Car API where the contents of the Sign Up and data entered via an 3rd party API(Insomnia) is sent to a database to be registered there and kept so you can actually sign in and keep the data asscociated with your account!
+NOTE: You have to have your token to be able to enter data into the PostgreSQL database, passwords are fully scrambled, and I have access to the data provided except the password
